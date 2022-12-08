@@ -1,6 +1,6 @@
 ### Welcome <img src="https://raw.githubusercontent.com/ryancupp/ryancupp/master/wave.gif" width="30px">
 
-My name is Ryan and I am a software develoepr. I'm from Denver and have projects using the following technologies:
+My name is Ryan and I am a software developer. I'm from Denver, Colorado and have projects using the following technologies:
 
 [![HTML/JSP][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
